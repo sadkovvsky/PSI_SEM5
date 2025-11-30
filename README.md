@@ -6,3 +6,7 @@ maszynowego<br />
 zad2 -> 5 - Klasyfikacja danych przy użyciu regresji logistyczne<br />
 zad3 -> 8 - Klasteryzacja danych przy użyciu K-Means<br />
 zad4 -> 3 - System ekspertowy oparty na logice rozmytej<br />
+<br />
+<br />
+aby bez problemu uruchomić wszystkie programy, przy venv należy wpisać
+'pip install -r requirements.txt'
