@@ -9,4 +9,4 @@ zad4 -> 3 - System ekspertowy oparty na logice rozmytej<br />
 <br />
 <br />
 aby bez problemu uruchomić wszystkie programy, przy venv należy wpisać
-'pip install -r requirements.txt'
+`pip install -r requirements.txt`
